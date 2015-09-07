@@ -9,3 +9,8 @@ to create a commit
 
 we use git add to add a logical change to the staging area and then
 git commit to commit to the repository
+
+we use branches when we want to try out something new but we want 
+a version we can revert to easily
+
+Drawing diagrams help visualize the branch structure and prevent accidental loss of commits
