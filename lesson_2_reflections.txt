@@ -1,0 +1,8 @@
+when you initialize a repository a .git directory is created that 
+contains the history of the files in the directory.
+we initialize a git repository to create versions of the files in
+the directory.
+
+The staging area is  different from the working directory and
+the repository in the way that it only allows files to be grouped
+to create a commit
