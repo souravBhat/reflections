@@ -6,3 +6,6 @@ the directory.
 The staging area is  different from the working directory and
 the repository in the way that it only allows files to be grouped
 to create a commit
+
+we use git add to add a logical change to the staging area and then
+git commit to commit to the repository
