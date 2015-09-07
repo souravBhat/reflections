@@ -1,0 +1,3 @@
+Using version control can make you more confident in making changes because
+you can pinpoint places where you might have made an error in the code.
+
